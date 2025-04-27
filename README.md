@@ -1,2 +1,16 @@
-# Basic-Diet_App-using-FLutter-and-Dart
-A Flutter-based mobile application that provides personalized diet recommendations, popular diets, and category-based browsing for healthy eating options. Features include search functionality, filter options, and a smooth UI with dynamic diet and category display.  Other Fields:  Language: Dart, Flutter   modify, and distribute the code.  
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
